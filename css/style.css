@@ -1010,7 +1010,7 @@ body.visible {
   min-height: 95rem;
 }
 
-.header__slider-item::after {
+.header__slider-item::before {
   content: '';
   display: block;
   position: absolute;
@@ -1024,7 +1024,7 @@ body.visible {
   z-index: -1;
 }
 
-.header__slider-item::before {
+.header__slider-item::after{
   content: '';
   display: block;
   position: absolute;
