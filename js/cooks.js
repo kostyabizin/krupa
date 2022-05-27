@@ -2,7 +2,7 @@
             id: 1,
             name: 'Лосось с овощами и гарниром из киноа и чечевицы',
             imageBig: '',
-            imageSmall: '/img/cooks/small/Losos_ovoshi_Kinoa_485x485.jpg',
+            imageSmall: './img/cooks/small/Losos_ovoshi_Kinoa_485x485.jpg',
             ingredients: 'Микс &laquo;Протеин&raquo; ТМ&nbsp;&laquo;Националь&raquo;: киноа и&nbsp;чечевица&nbsp;&mdash;&nbsp;250&nbsp;г., вода&nbsp;&mdash;&nbsp;350&nbsp;мл, лосось&nbsp;&mdash;&nbsp;150&nbsp;гр., цукини&nbsp;&mdash;&nbsp;&frac12;&nbsp;шт., помидоры&nbsp;&mdash;&nbsp;2&nbsp;шт., шпинат&nbsp;&mdash;&nbsp;50&nbsp;гр., оливковое масло&nbsp;&mdash;&nbsp;30&nbsp;мл, соевый соус&nbsp;&mdash;&nbsp;30&nbsp;мл, соль и&nbsp;перец&nbsp;&mdash;&nbsp;по&nbsp;вкусу, лайм&nbsp;&mdash;&nbsp;1&nbsp;шт., зелень&nbsp;&mdash;&nbsp;по&nbsp;вкусу',
             method: '',
             group: 'protein',
@@ -12,7 +12,7 @@
             id: 2,
             name: 'Кальмар на гриле с булгуром и сладким соусом из чили',
             imageBig: '',
-            imageSmall: '/img/cooks/small/Kalmar_Gril_Bulgur_485x485.jpg',
+            imageSmall: './img/cooks/small/Kalmar_Gril_Bulgur_485x485.jpg',
             ingredients: 'Смесь &laquo;Гликоген&raquo; ТМ&nbsp;&laquo;Националь&raquo;: булгур, томаты, красное киноа&nbsp;&mdash;&nbsp;250&nbsp;гр., вода&nbsp;&mdash;&nbsp;400&nbsp;мл, кальмары&nbsp;&mdash;&nbsp;2&nbsp;филе, спаржа&nbsp;&mdash;&nbsp;5&nbsp;стеблей, морковь&nbsp;&mdash;&nbsp;1&nbsp;шт., цукини&nbsp;&mdash;&nbsp;1шт., огурцы&nbsp;&mdash;&nbsp;1&nbsp;шт., красный перец&nbsp;&mdash;&nbsp;1&nbsp;шт. <br> Для соуса: чеснок&nbsp;&mdash;&nbsp;2&nbsp;зубчика, имбирь свежий&nbsp;&mdash;&nbsp;5&nbsp;гр., перец чили&nbsp;&mdash;&nbsp;1&nbsp;шт., вода&nbsp;&mdash;&nbsp;100&nbsp;мл, рисовый уксус&nbsp;&mdash;&nbsp;30&nbsp;мл, кукурузный крахмал&nbsp;&mdash;&nbsp;1&nbsp;ч.л., кинза&nbsp;&mdash;&nbsp;2&nbsp;веточки, мед&nbsp;&mdash;&nbsp;1&nbsp;ст.л.',
             method: '',
             group: 'glicogen',
@@ -22,7 +22,7 @@
             id: 3,
             name: 'Салат с говяжьим языком, овощами и чечевицей',
             imageBig: '',
-            imageSmall: '/img/cooks/small/Salat_Yazik_chechevica_485x485.jpg',
+            imageSmall: './img/cooks/small/Salat_Yazik_chechevica_485x485.jpg',
             ingredients: 'Смесь &laquo;Протеин&raquo; ТМ&nbsp;&laquo;Националь&raquo;: киноа, овощи, чечевица&nbsp;&mdash;&nbsp;250&nbsp;гр., вода&nbsp;&mdash;&nbsp;500&nbsp;мл, говяжий язык&nbsp;&mdash;&nbsp;100&nbsp;гр., помидоры&nbsp;&mdash;&nbsp;1&nbsp;шт., огурцы&nbsp;&mdash;&nbsp;1&nbsp;шт., сыр фета&nbsp;&mdash;&nbsp;50&nbsp;гр., лимоны&nbsp;&mdash;&nbsp;1&nbsp;шт., хрен&nbsp;&mdash;&nbsp;2&nbsp;ст.л., оливковое масло&nbsp;&mdash;&nbsp;30&nbsp;мл, соль и&nbsp;перец&nbsp;&mdash;&nbsp;по&nbsp;вкусу, укроп&nbsp;&mdash;&nbsp;3&nbsp;веточки',
             method: '',
             group: 'protein',
@@ -32,7 +32,7 @@
             id: 4,
             name: 'Куриная грудка на гриле с киноа под соусом из кокосового молока и грибов шиитаке',
             imageBig: '',
-            imageSmall: '/img/cooks/small/Kurinaya_Grudka_s_Kinoa_485x485.jpg',
+            imageSmall: './img/cooks/small/Kurinaya_Grudka_s_Kinoa_485x485.jpg',
             ingredients: 'Смесь &laquo;Протеин&raquo; ТМ&nbsp;&laquo;Националь&raquo;: киноа, овощи, чечевица&nbsp;&mdash;&nbsp;250&nbsp;гр., вода&nbsp;&mdash;&nbsp;500&nbsp;мл, филе куриной грудки&nbsp;&mdash;&nbsp;150&nbsp;гр., лук-шалот&nbsp;&mdash;&nbsp;1&nbsp;шт., лук-порей&nbsp;&mdash;&nbsp;50&nbsp;гр., чеснок&nbsp;&mdash;&nbsp;1&nbsp;зубчик, сушеные грибы шиитаке&nbsp;&mdash;&nbsp;30&nbsp;гр., помидоры черри&nbsp;&mdash;&nbsp;30&nbsp;гр., лайм&nbsp;&mdash;&nbsp;1&nbsp;шт., соевый соус&nbsp;&mdash;&nbsp;1&nbsp;ст.л., кокосовое молоко&nbsp;&mdash;&nbsp;100&nbsp;мл, куриный бульон&nbsp;&mdash;&nbsp;500&nbsp;мл, кинза&nbsp;&mdash;&nbsp;1&nbsp;веточка, соль и&nbsp;перец&nbsp;&mdash;&nbsp;по&nbsp;вкусу',
             method: '',
             group: 'protein',
@@ -42,7 +42,7 @@
             id: 5,
             name: 'Каша из риса, киноа и тыквы с жареным творогом и яблочными чипсами',
             imageBig: '',
-            imageSmall: '/img/cooks/small/Zavtrak_Ris_Kinoa_Apple_Chips_485x485.jpg',
+            imageSmall: './img/cooks/small/Zavtrak_Ris_Kinoa_Apple_Chips_485x485.jpg',
             ingredients: 'Смесь &laquo;Омега-3&raquo; ТМ&nbsp;&laquo;Националь&raquo;: рис, киноа, тыква&nbsp;&mdash;&nbsp;1&nbsp;стакан, вода&nbsp;&mdash;&nbsp;1,5&nbsp;стакана, миндальное молоко&nbsp;&mdash;&nbsp;1&nbsp;стакан, кедровые орехи&nbsp;&mdash;&nbsp;20&nbsp;гр., зерненый творог&nbsp;&mdash;&nbsp;100&nbsp;гр., мед&nbsp;&mdash;&nbsp;30&nbsp;гр., зеленые яблоки&nbsp;&mdash;&nbsp;2&nbsp;шт., лимоны&nbsp;&mdash;&nbsp;1&nbsp;шт.',
             method: '',
             group: 'omega',
@@ -52,7 +52,7 @@
             id: 6,
             name: 'Треска на пару с овощами и гарниром из бурого риса, киноа и семян льна',
             imageBig: '',
-            imageSmall: '/img/cooks/small/Treska_Ris_KinoaLen_485x485.jpg',
+            imageSmall: './img/cooks/small/Treska_Ris_KinoaLen_485x485.jpg',
             ingredients: 'Смесь &laquo;Омега-3&raquo; ТМ&nbsp;&laquo;Националь&raquo;: бурый рис, киноа, семена льна&nbsp;&mdash;&nbsp;1&nbsp;стакан, филе трески&nbsp;&mdash;&nbsp;180гр., вода&nbsp;&mdash;&nbsp;1,5&nbsp;стакана, мини кукуруза&nbsp;&mdash;&nbsp;20&nbsp;гр., морковь&nbsp;&mdash;&nbsp;1&nbsp;шт., спаржа&nbsp;&mdash;&nbsp;4&nbsp;стебля, цветная капуста&nbsp;&mdash;&nbsp;35&nbsp;гр., брокколи&nbsp;&mdash;&nbsp;35&nbsp;гр., чеснок&nbsp;&mdash;&nbsp;2&nbsp;зубчика, тимьян&nbsp;&mdash;&nbsp;3&nbsp;веточки, соль морская&nbsp;&mdash;&nbsp;по&nbsp;вкусу',
             method: '',
             group: 'omega',
@@ -62,7 +62,7 @@
             id: 7,
             name: 'Суп из гороха и чечевицы с копченой курицей',
             imageBig: '',
-            imageSmall: '/img/cooks/small/Sup_Goroh_Chechevca_Kurica_485x485.jpg',
+            imageSmall: './img/cooks/small/Sup_Goroh_Chechevca_Kurica_485x485.jpg',
             ingredients: 'Микс &laquo;Протеин&raquo; ТМ&nbsp;&laquo;Националь&raquo;: горох и&nbsp;чечевица&nbsp;&mdash;&nbsp;250&nbsp;гр., вода&nbsp;&mdash;&nbsp;2,5&nbsp;стакана, куриный бульон&nbsp;&mdash;&nbsp;1,5&nbsp;литра, копченая курица (филе или бедро без кожи)&nbsp;&mdash;&nbsp;100&nbsp;гр., репчатый лук&nbsp;&mdash;&nbsp;1&nbsp;шт., морковь&nbsp;&mdash;&nbsp;1&nbsp;шт., корень сельдерея&nbsp;&mdash;&nbsp;50&nbsp;гр., чеснок&nbsp;&mdash;&nbsp;1&nbsp;зубчик, растительное масло&nbsp;&mdash;&nbsp;30&nbsp;мл, карри и&nbsp;куркума&nbsp;&mdash;&nbsp;по&nbsp;вкусу, соль и&nbsp;перец&nbsp;&mdash;&nbsp;по&nbsp;вкусу',
             method: '',
             group: 'protein',
@@ -72,7 +72,7 @@
             id: 8,
             name: 'Теплый салат с печеными овощами, булгуром, кунжутом и семенами конопли',
             imageBig: '',
-            imageSmall: '/img/cooks/small/Salat_Ovoshi_Bulgur_Kunjut_485x485.jpg',
+            imageSmall: './img/cooks/small/Salat_Ovoshi_Bulgur_Kunjut_485x485.jpg',
             ingredients: 'Смесь &laquo;Омега-3&raquo; ТМ&nbsp;&laquo;Националь&raquo;: булгур, кунжут, семена конопли&nbsp;&mdash;&nbsp;250&nbsp;гр., вода&nbsp;&mdash;&nbsp;2&nbsp;стакана (400&nbsp;мл), баклажаны&nbsp;&mdash;&nbsp;1&nbsp;шт., красный болгарский перец&nbsp;&mdash;&nbsp;1&nbsp;шт., желтый болгарский перец&nbsp;&mdash;&nbsp;1&nbsp;шт., мята&nbsp;&mdash;&nbsp;2&nbsp;веточки, петрушка&nbsp;&mdash;&nbsp;2&nbsp;веточки, красный базилик&nbsp;&mdash;&nbsp;2&nbsp;веточки, лимоны&nbsp;&mdash;&nbsp;1&nbsp;шт., оливковое масло&nbsp;&mdash;&nbsp;30&nbsp;мл, шпинат&nbsp;&mdash;&nbsp;50&nbsp;гр., соль и&nbsp;перец&nbsp;&mdash;&nbsp;по&nbsp;вкусу',
             method: '',
             group: 'omega',
@@ -82,7 +82,7 @@
             id: 9,
             name: 'Пилаф из булгура с сухофруктами',
             imageBig: '',
-            imageSmall: '/img/cooks/small/Zavtrak_Pilaf_Bulgur_485x485.jpg',
+            imageSmall: './img/cooks/small/Zavtrak_Pilaf_Bulgur_485x485.jpg',
             ingredients: 'Смесь &laquo;Омега-3&raquo; ТМ&nbsp;&laquo;Националь&raquo;: булгур, кунжут, семена конопли&nbsp;&mdash;&nbsp;250&nbsp;гр., вода&nbsp;&mdash;&nbsp;2&nbsp;стакана (400&nbsp;мл), курага&nbsp;&mdash;&nbsp;30&nbsp;гр., чернослив&nbsp;&mdash;&nbsp;30&nbsp;гр., сушеный инжир&nbsp;&mdash;&nbsp;30&nbsp;гр., корица&nbsp;&mdash;&nbsp;&frac12; ч.л., молотая гвоздика&nbsp;&mdash;&nbsp;&frac14; ч.л., бадьян&nbsp;&mdash;&nbsp;1&nbsp;звездочка, мята&nbsp;&mdash;&nbsp;1&nbsp;веточка',
             method: '',
             group: 'omega',
@@ -92,7 +92,7 @@
             id: 10,
             name: 'Запеченные тыква и кабачок с булгуром и соусом ньокчам',
             imageBig: '',
-            imageSmall: '/img/cooks/small/Tikva_Kabachok_Bulgur_485x485.jpg',
+            imageSmall: './img/cooks/small/Tikva_Kabachok_Bulgur_485x485.jpg',
             ingredients: 'Смесь &laquo;Омега-3&raquo; ТМ&nbsp;&laquo;Националь&raquo;: булгур, кунжут, семена конопли&nbsp;&mdash;&nbsp;250&nbsp;гр., вода&nbsp;&mdash;&nbsp;400&nbsp;мл, тыква баттернат&nbsp;&mdash;&nbsp;300&nbsp;гр., тимьян&nbsp;&mdash;&nbsp;5&nbsp;веточек, кабачок&nbsp;&mdash;&nbsp;1&nbsp;шт., красный лук&nbsp;&mdash;&nbsp;1&nbsp;шт., перец чили&nbsp;&mdash;&nbsp;1&nbsp;шт., арахис&nbsp;&mdash;&nbsp;30&nbsp;гр., чеснок&nbsp;&mdash;&nbsp;4&nbsp;зубчика, рисовый уксус&nbsp;&mdash;&nbsp;50&nbsp;мл, вода&nbsp;&mdash;&nbsp;20&nbsp;мл, мед&nbsp;&mdash;&nbsp;1&nbsp;ст.л.',
             method: '',
             group: 'omega',
@@ -102,7 +102,7 @@
             id: 11,
             name: 'Каша из бурого риса с полбой, семенами льна, печеными яблоками и овсяным молоком ',
             imageBig: '',
-            imageSmall: '/img/cooks/small/Kasha_BuRis_Polba_Len_485x485.jpg',
+            imageSmall: './img/cooks/small/Kasha_BuRis_Polba_Len_485x485.jpg',
             ingredients: 'Смесь &laquo;Гликоген&raquo; ТМ&nbsp;&laquo;Националь&raquo;: бурый рис, полба, семена льна&nbsp;&mdash;&nbsp;250&nbsp;гр., вода&nbsp;&mdash;&nbsp;400&nbsp;мл, зеленые яблоки&nbsp;&mdash;&nbsp;2&nbsp;шт., овсяное молоко&nbsp;&mdash;&nbsp;200&nbsp;мл, корица&nbsp;&mdash;&nbsp;1&nbsp;ч.л., молотый имбирь&nbsp;&mdash;&nbsp;1&nbsp;ч.л., мед&nbsp;&mdash;&nbsp;1&nbsp;ст.л.',
             method: '',
             group: 'glicogen',
@@ -112,7 +112,7 @@
             id: 12,
             name: 'Диетические голубцы с индейкой и зеленой гречкой под соусом из запеченных баклажанов ',
             imageBig: '',
-            imageSmall: '/img/cooks/small/DietGolubci_Indeika_ZelGrechka_485x485.jpg',
+            imageSmall: './img/cooks/small/DietGolubci_Indeika_ZelGrechka_485x485.jpg',
             ingredients: 'Смесь &laquo;Гликоген&raquo; ТМ&nbsp;&laquo;Националь&raquo;: зеленая гречка и&nbsp;красное киноа&nbsp;&mdash;&nbsp;250&nbsp;гр., вода&nbsp;&mdash;&nbsp;400&nbsp;мл, фарш из&nbsp;индейки&nbsp;&mdash;&nbsp;200&nbsp;гр., листья савойской капусты&nbsp;&mdash;&nbsp;5&nbsp;шт., красный перец&nbsp;&mdash;&nbsp;1&nbsp;шт., йогурт&nbsp;&mdash;&nbsp;50&nbsp;мл, баклажаны&nbsp;&mdash;&nbsp;1&nbsp;шт., лимоны&nbsp;&mdash;&nbsp;&frac12;&nbsp;шт., оливковое масло&nbsp;&mdash;&nbsp;1&nbsp;ч.л., соль и&nbsp;перец&nbsp;&mdash;&nbsp;по&nbsp;вкусу',
             method: '',
             group: 'glicogen',
@@ -122,7 +122,7 @@
             id: 13,
             name: 'Цыпленок с овощами и гарниром из чечевицы',
             imageBig: '',
-            imageSmall: '/img/cooks/small/Ciplenok_ovoshi_Chechevica_485x485.jpg',
+            imageSmall: './img/cooks/small/Ciplenok_ovoshi_Chechevica_485x485.jpg',
             ingredients: 'Микс &laquo;Протеин&raquo; ТМ&nbsp;&laquo;Националь&raquo;: киноа и&nbsp;чечевица&nbsp;&mdash;&nbsp;250&nbsp;гр., вода&nbsp;&mdash;&nbsp;350&nbsp;мл, цыпленок&nbsp;&mdash;&nbsp;1&nbsp;шт., лук-порей&nbsp;&mdash;&nbsp;40&nbsp;гр., красный перец Рамиро&nbsp;&mdash;&nbsp;1&nbsp;шт., лайм&nbsp;&mdash;&nbsp;&frac12;&nbsp;шт., чеснок&nbsp;&mdash;&nbsp;3&nbsp;зубчика, шпинат&nbsp;&mdash;&nbsp;30&nbsp;гр., зеленый лук&nbsp;&mdash;&nbsp;3&nbsp;пера, соевый соус&nbsp;&mdash;&nbsp;2&nbsp;ст.л., оливковое масло&nbsp;&mdash;&nbsp;2&nbsp;ст.л., соль&nbsp;&mdash;&nbsp;по&nbsp;вкусу',
             method: '',
             group: 'protein',
@@ -132,7 +132,7 @@
             id: 14,
             name: 'Салат с печеной свеклой, зеленой гречкой, киноа и соусом из тофу',
             imageBig: '',
-            imageSmall: '/img/cooks/small/Salat_Svekla_Grechka_Zelenaya_Kinoa_485x485.jpg',
+            imageSmall: './img/cooks/small/Salat_Svekla_Grechka_Zelenaya_Kinoa_485x485.jpg',
             ingredients: 'Смесь &laquo;Гликоген&raquo; ТМ&nbsp;&laquo;Националь&raquo;: зеленая гречка и&nbsp;красное киноа&nbsp;&mdash;&nbsp;250&nbsp;гр., вода&nbsp;&mdash;&nbsp;500&nbsp;мл, брокколи свежая&nbsp;&mdash;&nbsp;50&nbsp;гр., свекла печеная&nbsp;&mdash;&nbsp;1&nbsp;шт., салатный микс&nbsp;&mdash;&nbsp;50&nbsp;гр. <br> Для соуса: сыр Тофу&nbsp;&mdash;&nbsp;70&nbsp;гр., горчица дижонская&nbsp;&mdash;&nbsp;1&nbsp;ст.л., соевый соус&nbsp;&mdash;&nbsp;1&nbsp;ст.л., вода&nbsp;&mdash;&nbsp;3&nbsp;ст.л., лимоны&nbsp;&mdash;&nbsp;&frac12;&nbsp;шт., соль и&nbsp;перец&nbsp;&mdash;&nbsp;по&nbsp;вкусу, оливковое масло&nbsp;&mdash;&nbsp;по&nbsp;вкусу',
             method: '',
             group: 'glicogen',
@@ -142,7 +142,7 @@
             id: 15,
             name: 'Яйцо пашот с миксом гороха и чечевицы и свежими овощами',
             imageBig: '',
-            imageSmall: '/img/cooks/small/Yaico_Goroh_Chechevica_485x485.jpg',
+            imageSmall: './img/cooks/small/Yaico_Goroh_Chechevica_485x485.jpg',
             ingredients: 'Микс гороха и&nbsp;чечевицы ТМ&nbsp;&laquo;Националь&raquo;&nbsp;&mdash;&nbsp;250&nbsp;гр., вода&nbsp;&mdash;&nbsp;500&nbsp;мл, помидоры черри&nbsp;&mdash;&nbsp;6&nbsp;шт., стебель сельдерея&nbsp;&mdash;&nbsp;1&nbsp;шт., огурец&nbsp;&mdash;&nbsp;1&nbsp;шт., зеленый базилик&nbsp;&mdash;&nbsp;1&nbsp;веточка, мята&nbsp;&mdash;&nbsp;1&nbsp;веточка, петрушка&nbsp;&mdash;&nbsp;1&nbsp;веточка, яйцо куриное&nbsp;&mdash;&nbsp;1&nbsp;шт., яблочный уксус&nbsp;&mdash;&nbsp;1&nbsp;ст.л., лимоны&nbsp;&mdash;&nbsp;1&nbsp;шт., оливковое масло&nbsp;&mdash;&nbsp;30&nbsp;мл, соль и&nbsp;перец&nbsp;&mdash;&nbsp;по&nbsp;вкусу',
             method: '',
             group: 'protein',
@@ -152,7 +152,7 @@
             id: 16,
             name: 'Филе тунца с овощами вок, бурым рисом и соусом из манго и чили',
             imageBig: '',
-            imageSmall: '/img/cooks/small/Tuna_ovoshiWok_Ris_485x485.jpg',
+            imageSmall: './img/cooks/small/Tuna_ovoshiWok_Ris_485x485.jpg',
             ingredients: 'Смесь &laquo;Омега-3&raquo; ТМ&nbsp;&laquo;Националь&raquo;: бурый рис, киноа и&nbsp;семена льна&nbsp;&mdash;&nbsp;250&nbsp;гр., вода&nbsp;&mdash;&nbsp;300&nbsp;мл, филе тунца&nbsp;&mdash;&nbsp;1&nbsp;шт., спаржа&nbsp;&mdash;&nbsp;5&nbsp;шт., морковь&nbsp;&mdash;&nbsp;1&nbsp;шт., кукуруза мини&nbsp;&mdash;&nbsp;3&nbsp;шт., болгарский перец мини&nbsp;&mdash;&nbsp;2&nbsp;шт., свежий шпинат&nbsp;&mdash;&nbsp;30&nbsp;гр., пюре манго&nbsp;&mdash;&nbsp;150&nbsp;мл, перец чили&nbsp;&mdash;&nbsp;1&nbsp;шт., чеснок&nbsp;&mdash;&nbsp;2&nbsp;зубчика, лайм&nbsp;&mdash;&nbsp;&frac12;&nbsp;шт., оливковое масло&nbsp;&mdash;&nbsp;30&nbsp;мл, кунжутное масло&nbsp;&mdash;&nbsp;1&nbsp;ч.л., рыбный соус&nbsp;&mdash;&nbsp;1&nbsp;ст.л.',
             method: '',
             group: 'omega',
@@ -161,8 +161,8 @@
         }, {
             id: 17,
             name: 'Боул с&nbsp;булгуром, томатами и&nbsp;красным киноа, брынзой и&nbsp;соусом из&nbsp;авокадо',
-            imageBig: '/img/cooks/big/Boul_s_Bulgurom_1920x1080.jpg',
-            imageSmall: '/img/cooks/small/Boul_s_Bulgurom_485x485.jpg',
+            imageBig: './img/cooks/big/Boul_s_Bulgurom_1920x1080.jpg',
+            imageSmall: './img/cooks/small/Boul_s_Bulgurom_485x485.jpg',
             ingredients: 'Основные: смесь &laquo;Гликоген&raquo; ТМ&nbsp;&laquo;Националь&raquo;: булгур, томаты, красное киноа&nbsp;&mdash;&nbsp;100&nbsp;г., брынза&nbsp;&mdash;&nbsp;100&nbsp;г., авокадо&nbsp;&mdash;&nbsp;1&nbsp;шт., лук зеленый&nbsp;&mdash;&nbsp;50&nbsp;г., чеснок&nbsp;&mdash;&nbsp;1&nbsp;зубчик., оливковое масло&nbsp;&mdash;&nbsp;50&nbsp;мл., лайм&nbsp;&mdash;&nbsp;1&nbsp;шт., сметана&nbsp;&mdash;&nbsp;35&nbsp;г., соль&nbsp;&mdash;&nbsp;по&nbsp;вкусу., перец&nbsp;&mdash;&nbsp;по&nbsp;вкусу.',
             method: `
             <p class="popup__ingredients">
@@ -185,8 +185,8 @@
         }, {
             id: 18,
             name: 'Рисовая каша с&nbsp;киноа, тыквой и&nbsp;курагой',
-            imageBig: '/img/cooks/big/Risovaya_kasha_kinoa_1920x1080.jpg',
-            imageSmall: '/img/cooks/small/Risovaya_kasha_kinoa_485x485.jpg',
+            imageBig: './img/cooks/big/Risovaya_kasha_kinoa_1920x1080.jpg',
+            imageSmall: './img/cooks/small/Risovaya_kasha_kinoa_485x485.jpg',
             ingredients: 'Основные: смесь &laquo;Омега-3&raquo; ТМ&nbsp;&laquo;Националь&raquo;: рис, киноа, тыква&nbsp;&mdash;&nbsp;100&nbsp;г., курага&nbsp;&mdash;&nbsp;50&nbsp;г., грецкие&nbsp;орехи&nbsp;&mdash;&nbsp;50&nbsp;г., мед&nbsp;&mdash;&nbsp;1&nbsp;ст.&nbsp;л., молоко&nbsp;&mdash;&nbsp;100&nbsp;мл., вода&nbsp;&mdash;&nbsp;150&nbsp;мл., соль&nbsp;&mdash;&nbsp;по&nbsp;вкусу.',
             method: `
             <p class="popup__ingredients">
@@ -208,8 +208,8 @@
         }, {
             id: 19,
             name: 'Салат с&nbsp;булгуром, кунжутом, семенами конопли с&nbsp;руколой, помидорами и&nbsp;моцареллой',
-            imageBig: '/img/cooks/big/Salat_s_bulgurom_konopli_1920x1080.jpg',
-            imageSmall: '/img/cooks/small/Salat_s_bulgurom_konopli_485x485.jpg',
+            imageBig: './img/cooks/big/Salat_s_bulgurom_konopli_1920x1080.jpg',
+            imageSmall: './img/cooks/small/Salat_s_bulgurom_konopli_485x485.jpg',
             ingredients: 'Основные: помидоры&nbsp;&mdash;&nbsp;2&nbsp;шт., моцарелла&nbsp;&mdash;&nbsp;125&nbsp;г., рукола&nbsp;&mdash;&nbsp;2&nbsp;горсти., смесь &laquo;Омега-3&raquo; ТМ&nbsp;&laquo;Националь&raquo;: булгур, кунжут, семена конопли&nbsp;&mdash;&nbsp;50&nbsp;г., соль&nbsp;&mdash;&nbsp;по&nbsp;вкусу.<br>Для заправки: бальзамический уксус&nbsp;&mdash;&nbsp;1&nbsp;ст.&nbsp;л., оливковое масло&nbsp;&mdash;&nbsp;3&nbsp;ч.&nbsp;л., лимонный сок&nbsp;&mdash;&nbsp;2&nbsp;ч.&nbsp;л., чеснок&nbsp;&mdash;&nbsp;1&nbsp;зубчик.',
             method: `
             <p class="popup__ingredients">
@@ -231,8 +231,8 @@
         }, {
             id: 20,
             name: 'Теплый салат с&nbsp;бурым рисом, киноа, семенами льна и&nbsp;курицей',
-            imageBig: '/img/cooks/big/TepliySalat_s_burimRisom_lna_1920x1080.jpg',
-            imageSmall: '/img/cooks/small/TepliySalat_s_burimRisom_485x485.jpg',
+            imageBig: './img/cooks/big/TepliySalat_s_burimRisom_lna_1920x1080.jpg',
+            imageSmall: './img/cooks/small/TepliySalat_s_burimRisom_485x485.jpg',
             ingredients: 'Основные: смесь &laquo;Омега-3&raquo; ТМ&nbsp;&laquo;Националь&raquo;: бурый рис, киноа, семена льна&nbsp;&mdash;&nbsp;100&nbsp;г., куриное филе&nbsp;&mdash;&nbsp;1&nbsp;шт., баклажаны&nbsp;&mdash;&nbsp;1&nbsp;шт., цукини&nbsp;&mdash;&nbsp;1&nbsp;шт., лук красный&nbsp;&mdash;&nbsp;&frac12;&nbsp;шт., помидоры черри&nbsp;&mdash;&nbsp;8&nbsp;шт., оливковое масло&nbsp;&mdash;&nbsp;2&nbsp;ст.&nbsp;л., лимонный сок&nbsp;&mdash;&nbsp;1&nbsp;ч.&nbsp;л., соль&nbsp;&mdash;&nbsp;по&nbsp;вкусу., перец&nbsp;&mdash;&nbsp;по&nbsp;вкусу.',
             method: `
             <p class="popup__ingredients">
@@ -256,8 +256,8 @@
         }, {
             id: 21,
             name: 'Вегетарианский суп из&nbsp;микса гороха и&nbsp;чечевицы',
-            imageBig: '/img/cooks/big/Veganskiy_Sup_Mix_Goroha_1920x1080.jpg',
-            imageSmall: '/img/cooks/small/Veganskiy_Sup_Mix_Goroha_485x485.jpg',
+            imageBig: './img/cooks/big/Veganskiy_Sup_Mix_Goroha_1920x1080.jpg',
+            imageSmall: './img/cooks/small/Veganskiy_Sup_Mix_Goroha_485x485.jpg',
             ingredients: 'Основные: смесь &laquo;Протеин&raquo; ТМ&nbsp;&laquo;Националь&raquo;: микс гороха и&nbsp;чечевицы&nbsp;&mdash;&nbsp;250&nbsp;г., картофель&nbsp;&mdash;&nbsp;2&nbsp;шт., лук-порей&nbsp;&mdash;&nbsp;0,3&nbsp;стебля., морковь&nbsp;&mdash;&nbsp;1&nbsp;шт., перец болгарский&nbsp;&mdash;&nbsp;&frac12;&nbsp;шт., паприка копченая&nbsp;&mdash;&nbsp;&frac12;&nbsp;ч.&nbsp;л., хмели-сунели&nbsp;&mdash;&nbsp;1&nbsp;щепотка., чесночный порошок&nbsp;&mdash;&nbsp;&frac12;&nbsp;ч.&nbsp;л., базилик свежий&nbsp;&mdash;&nbsp;2&nbsp;веточки., растительное масло&nbsp;&mdash;&nbsp;1&nbsp;ст.&nbsp;л., сливочное масло&nbsp;&mdash;&nbsp;20&nbsp;г., соль&nbsp;&mdash;&nbsp;по&nbsp;вкусу., перец&nbsp;&mdash;&nbsp;по&nbsp;вкусу.',
             method: `
             <p class="popup__ingredients">
@@ -280,8 +280,8 @@
         }, {
             id: 22,
             name: 'Тушеная говядина с&nbsp;киноа, овощами и&nbsp;чечевицей',
-            imageBig: '/img/cooks/big/Tushonaya_govyadina_sKinoa_1920x1080.jpg',
-            imageSmall: '/img/cooks/small/Tushonaya_govyadina_sKinoa_485x485.jpg',
+            imageBig: './img/cooks/big/Tushonaya_govyadina_sKinoa_1920x1080.jpg',
+            imageSmall: './img/cooks/small/Tushonaya_govyadina_sKinoa_485x485.jpg',
             ingredients: 'Основные: говядина&nbsp;&mdash;&nbsp;300&nbsp;г., смесь &laquo;Протеин&raquo; ТМ&nbsp;&laquo;Националь&raquo;: киноа, овощи и&nbsp;чечевица&nbsp;&mdash;&nbsp;150&nbsp;г., перец болгарский&nbsp;&mdash;&nbsp;2&nbsp;шт., баклажаны&nbsp;&mdash;&nbsp;1&nbsp;шт., чеснок&nbsp;&mdash;&nbsp;2&nbsp;зубчика., оливковое масло&nbsp;&mdash;&nbsp;1&nbsp;ст.&nbsp;л., помидоры протертые пассата&nbsp;&mdash;&nbsp;100&nbsp;мл., хмели-сунели&nbsp;&mdash;&nbsp;&frac12;&nbsp;ч.&nbsp;л., соль&nbsp;&mdash;&nbsp;по&nbsp;вкусу., перец&nbsp;&mdash;&nbsp;по&nbsp;вкусу.',
             method: `
             <p class="popup__ingredients">
@@ -304,8 +304,8 @@
         }, {
             id: 23,
             name: 'Теплый салат с&nbsp;запеченной свеклой, киноа, чечевицей, брынзой и&nbsp;шпинатом',
-            imageBig: '/img/cooks/big/TepliySalat_s_Svekloy_kinoa_1920x1080.jpg',
-            imageSmall: '/img/cooks/small/TepliySalat_s_Svekloy_kinoa_485x485.jpg',
+            imageBig: './img/cooks/big/TepliySalat_s_Svekloy_kinoa_1920x1080.jpg',
+            imageSmall: './img/cooks/small/TepliySalat_s_Svekloy_kinoa_485x485.jpg',
             ingredients: 'Основные: смесь &laquo;Протеин&raquo; ТМ&nbsp;&laquo;Националь&raquo;: микс киноа и&nbsp;чечевицы&nbsp;&mdash;&nbsp;100&nbsp;г., свекла&nbsp;&mdash;&nbsp;1&nbsp;шт., шпинат&nbsp;&mdash;&nbsp;1&nbsp;пучок., брынза&nbsp;&mdash;&nbsp;70&nbsp;г., лук красный&nbsp;&mdash;&nbsp;&frac12;&nbsp;шт., помидоры черри&nbsp;&mdash;&nbsp;8&nbsp;шт., соль&nbsp;&mdash;&nbsp;по&nbsp;вкусу., перец&nbsp;&mdash;&nbsp;по&nbsp;вкусу.<br>Для заправки: оливковое масло&nbsp;&mdash;&nbsp;1&nbsp;ст.&nbsp;л., бальзамический соус&nbsp;&mdash;&nbsp;1&nbsp;ч.&nbsp;л., соль&nbsp;&mdash;&nbsp;по&nbsp;вкусу., перец&nbsp;&mdash;&nbsp;по&nbsp;вкусу.',
             method: `
             <p class="popup__ingredients">
@@ -328,8 +328,8 @@
         }, {
             id: 24,
             name: 'Зеленая гречка с&nbsp;киноа с&nbsp;отварным языком и&nbsp;ореховым соусом',
-            imageBig: '/img/cooks/big/Zelenaya_Grechka_sYazikom_1920x1080.jpg',
-            imageSmall: '/img/cooks/small/Zelenaya_Grechka_sYazikom_485x485.jpg',
+            imageBig: './img/cooks/big/Zelenaya_Grechka_sYazikom_1920x1080.jpg',
+            imageSmall: './img/cooks/small/Zelenaya_Grechka_sYazikom_485x485.jpg',
             ingredients: 'Основные: телячий язык&nbsp;&mdash;&nbsp;400&nbsp;г., смесь &laquo;Гликоген&raquo; ТМ&nbsp;&laquo;Националь&raquo;: микс из&nbsp;зеленой гречки с&nbsp;киноа&nbsp;&mdash;&nbsp;200&nbsp;г., соль&nbsp;&mdash;&nbsp;по&nbsp;вкусу., перец&nbsp;&mdash;&nbsp;по&nbsp;вкусу.<br> Для соуса: грецкие&nbsp;орехи&nbsp;&mdash;&nbsp;100&nbsp;г., чеснок&nbsp;&mdash;&nbsp;2&nbsp;зубчика., лук репчатый&nbsp;&mdash;&nbsp;20&nbsp;г., растительное масло&nbsp;&mdash;&nbsp;2&nbsp;ч.&nbsp;л., кинза, петрушка&nbsp;&mdash;&nbsp;1&nbsp;пучок., вода&nbsp;&mdash;&nbsp;150&nbsp;мл., яблочный уксус&nbsp;&mdash;&nbsp;&frac12;&nbsp;ч.&nbsp;л., хмели-сунели&nbsp;&mdash;&nbsp;&frac12;&nbsp;ч.&nbsp;л., соль&nbsp;&mdash;&nbsp;по&nbsp;вкусу., перец&nbsp;&mdash;&nbsp;по&nbsp;вкусу.',
             method: `
             <p class="popup__ingredients">
@@ -353,8 +353,8 @@
         }, {
             id: 25,
             name: 'Креветки с&nbsp;бурым рисом, полбой и&nbsp;семенами льна',
-            imageBig: '/img/cooks/big/Krivetku_sBurim_risom_1920x1080.jpg',
-            imageSmall: '/img/cooks/small/Krivetku_sBurim_risom_485x485.jpg',
+            imageBig: './img/cooks/big/Krivetku_sBurim_risom_1920x1080.jpg',
+            imageSmall: './img/cooks/small/Krivetku_sBurim_risom_485x485.jpg',
             ingredients: 'Основные: креветки&nbsp;&mdash;&nbsp;500&nbsp;г., смесь &laquo;Гликоген&raquo; ТМ&nbsp;&laquo;Националь&raquo;: бурый рис, полба, семена льна&nbsp;&mdash;&nbsp;200&nbsp;г., лук репчатый&nbsp;&mdash;&nbsp;2&nbsp;шт., морковь&nbsp;&mdash;&nbsp;1&nbsp;шт., лимоны&nbsp;&mdash;&nbsp;&frac12;&nbsp;шт., петрушка&nbsp;&mdash;&nbsp;1&nbsp;пучок., лук зеленый&nbsp;&mdash;&nbsp;3&nbsp;стебля., оливковое масло&nbsp;&mdash;&nbsp;1&nbsp;ст.&nbsp;л., соль&nbsp;&mdash;&nbsp;по&nbsp;вкусу., перец&nbsp;&mdash;&nbsp;по&nbsp;вкусу.',
             method: `
             <p class="popup__ingredients">
@@ -376,8 +376,8 @@
         }, {
             id: 26,
             name: 'Вегетарианские запеченные перцы, фаршированные булгуром, томатами, красным киноа и&nbsp;фетой',
-            imageBig: '/img/cooks/big/Vegan_Perci_sBulgurom_Kinoa_1920x1080.jpg',
-            imageSmall: '/img/cooks/small/Veganskie_Perci_sBulgurom_Kinoa_485x485.jpg',
+            imageBig: './img/cooks/big/Vegan_Perci_sBulgurom_Kinoa_1920x1080.jpg',
+            imageSmall: './img/cooks/small/Veganskie_Perci_sBulgurom_Kinoa_485x485.jpg',
             ingredients: 'Основные: перец болгарский&nbsp;&mdash;&nbsp;2&nbsp;шт., смесь &laquo;Гликоген&raquo; ТМ&nbsp;&laquo;Националь&raquo;: булгур, томаты, красное киноа&nbsp;&mdash;&nbsp;150&nbsp;г., лук-порей&nbsp;&mdash;&nbsp;1&nbsp;шт., лук репчатый&nbsp;&mdash;&nbsp;1&nbsp;шт., фета&nbsp;&mdash;&nbsp;100&nbsp;г., паприка&nbsp;&mdash;&nbsp;10&nbsp;г., оливковое масло&nbsp;&mdash;&nbsp;1&nbsp;ст.&nbsp;л., укроп&nbsp;&mdash;&nbsp;1&nbsp;пучок., соль&nbsp;&mdash;&nbsp;по&nbsp;вкусу., перец&nbsp;&mdash;&nbsp;по&nbsp;вкусу., сметана&nbsp;&mdash;&nbsp;по&nbsp;вкусу.',
             method: `
             <p class="popup__ingredients">
